@@ -1,0 +1,5 @@
+Jet Blue,345,6,10,8,6,10,14.25,Orlando,New York
+Singapore Airlines,5291,4,5,18,4,6,2.5,Las Angeles,Taipei Taiwan
+Southwest,4287,10,10,12.5,10,10,21.25,Atlanta,Seattle
+United Airlines,123,2,28,23.5,3,1,5.75,Portland,Chicago
+united,245,2,3,4,5,6,7,8,9
